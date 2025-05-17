@@ -9,7 +9,7 @@ A minimalistic **JSON formatter** with colored syntax highlighting for the termi
 ## 📥 Installation
 
 ```bash
-sh -c "$(curl -sS https://raw.githubusercontent.com/fabfawufawd/jpp/main/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/fabfawufawd/jpp/main/install.sh | sh
 ```
 
 or manually
